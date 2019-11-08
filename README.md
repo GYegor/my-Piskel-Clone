@@ -1,1 +1,1 @@
-# my-Piskel-clone-demo
+# my-Piskel-Clone
